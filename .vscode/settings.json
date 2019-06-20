@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "Main.C": "cpp",
+        "wario.C": "cpp",
+        "Character.C": "cpp",
+        "gb.h": "c",
+        "radianlogo_map.c": "cpp",
+        "radianlogo_data.c": "cpp",
+        "Input.C": "cpp",
+        "fonttiles.c": "cpp"
+    }
+}
